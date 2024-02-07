@@ -1,6 +1,4 @@
-<p align="center">
-<img width="700" src="./assets/bash-logo.jpg" alt="Bash Logo">
-</p>
+
 <h1 align="center">Bash Task Manager</h1>
 
 # Introduction
